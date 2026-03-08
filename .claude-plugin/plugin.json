@@ -1,0 +1,6 @@
+{
+  "name": "jeopardy-sounds",
+  "description": "Plays Final Jeopardy thinking music while Claude is working and a correct-answer ding when it finishes.",
+  "version": "1.0.0",
+  "author": "pincheleee"
+}

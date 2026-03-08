@@ -1,0 +1,5 @@
+# Temp build files
+sounds/*.wav
+sounds/*.mp3
+sounds/*.txt
+sounds/note_*.wav
