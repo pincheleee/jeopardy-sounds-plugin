@@ -1,6 +1,6 @@
 # Jeopardy Sounds Plugin for Claude Code
 
-WILL GET BORING QUICLY
+WILL GET BORING QUICKLY
 
 Plays Final Jeopardy thinking music while Claude is working and a correct-answer ding when it finishes.
 
