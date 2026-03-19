@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash '/Users/robertmonterroso/Desktop/Robert monterroso all things/Projects/casino-pling-plugin/sounds/loop_jeopardy.sh'"
+            "command": "bash '/Users/robertmonterroso/Desktop/Robert monterroso all things/Projects/jeopardy-sounds-plugin/sounds/loop_jeopardy.sh'"
           }
         ]
       }
@@ -15,7 +15,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash '/Users/robertmonterroso/Desktop/Robert monterroso all things/Projects/casino-pling-plugin/sounds/stop_jeopardy.sh'"
+            "command": "bash '/Users/robertmonterroso/Desktop/Robert monterroso all things/Projects/jeopardy-sounds-plugin/sounds/stop_jeopardy.sh'"
           }
         ]
       }

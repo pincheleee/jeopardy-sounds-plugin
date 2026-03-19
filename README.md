@@ -26,7 +26,7 @@ Add to `~/.claude/settings.json`:
         "hooks": [
           {
             "type": "command",
-            "command": "bash '/path/to/casino-pling-plugin/sounds/loop_jeopardy.sh'"
+            "command": "bash '/path/to/jeopardy-sounds-plugin/sounds/loop_jeopardy.sh'"
           }
         ]
       }
@@ -36,7 +36,7 @@ Add to `~/.claude/settings.json`:
         "hooks": [
           {
             "type": "command",
-            "command": "bash '/path/to/casino-pling-plugin/sounds/stop_jeopardy.sh'"
+            "command": "bash '/path/to/jeopardy-sounds-plugin/sounds/stop_jeopardy.sh'"
           }
         ]
       }
@@ -45,7 +45,7 @@ Add to `~/.claude/settings.json`:
 }
 ```
 
-Replace `/path/to/casino-pling-plugin` with your actual clone path.
+Replace `/path/to/jeopardy-sounds-plugin` with your actual clone path.
 
 ## Volume
 
